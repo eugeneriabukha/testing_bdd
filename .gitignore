@@ -1,6 +1,7 @@
 *.pyc
 *.log
 .idea/
+venv/
 venv/bin/activate.csh
 venv/bin/activate.fish
 venv/bin/easy_install-3.5
